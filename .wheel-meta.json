@@ -1,0 +1,22 @@
+{
+  "wheel_id": 627,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-158",
+  "project": "retaining-walls-geelong-faq-297c1ec6353f2af86451e9c0ce56601250a",
+  "parent_t1_ref": "retainingwallgeelong-014",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.au",
+  "primary_kw": "retaining walls geelong faq",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-geelong-faq-297c1ec6353f2af86451e9c0ce56601250a/",
+  "tier": "T2",
+  "writeback_nonce": "6d133f350739f136",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-geelong/",
+      "anchor": "this retaining walls geelong guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
